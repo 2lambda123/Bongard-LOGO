@@ -1,5 +1,5 @@
 numpy==1.18.3
-pillow==7.1.2
+pillow==10.2.0
 xvfbwrapper==0.2.9
 matplotlib==3.2.1
 tqdm==4.46.0
